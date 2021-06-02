@@ -2,5 +2,5 @@
 layour: slide
 title: "welcome to our second slide!"
 ----
-Not sure
+"Something new"
 Use the left arrow to go back
